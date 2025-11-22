@@ -1,1 +1,2 @@
-# Bài tập Git số 2
+# Làm việc với Github
+Repo này được tạo để làm bài tập Git.
